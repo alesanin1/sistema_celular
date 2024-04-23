@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\bin\Debug\net8.0\Sistema_telefone.exe
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\bin\Debug\net8.0\Sistema_telefone.deps.json
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\bin\Debug\net8.0\Sistema_telefone.runtimeconfig.json
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\bin\Debug\net8.0\Sistema_telefone.dll
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\bin\Debug\net8.0\Sistema_telefone.pdb
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\Sistema_telefone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\Sistema_telefone.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\Sistema_telefone.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\Sistema_telefone.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\Sistema_telefone.dll
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\refint\Sistema_telefone.dll
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\Sistema_telefone.pdb
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\Sistema_telefone.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Documentos\CSHARP_DIO\Sistema_telefone\obj\Debug\net8.0\ref\Sistema_telefone.dll
